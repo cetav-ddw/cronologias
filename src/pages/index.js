@@ -84,7 +84,7 @@ function homePage({curatorsData, museumData, teamData}) {
                 <a>
                   <Image 
                     src='/sobreInvest2.svg'
-                    w={{base:'130px', md:'200px', lg:'255px'}}
+                    w={{base:'170px', md:'200px', lg:'255px'}}
                     h={{base:'65px', md:'65px',lg:'65px'}} 
                     
                     alt="Sobre la investigación"
@@ -128,7 +128,7 @@ function homePage({curatorsData, museumData, teamData}) {
         >
         <Image 
           src="/visitaExposicionesDescktop.svg"
-          w={{base:'150px', md:'200px', lg:'270px'}}
+          w={{base:'170px', md:'200px', lg:'270px'}}
           h={{base:'65px', md:'65px', lg:'65px'}}
           
           alt="Visita las exposiciones"
@@ -145,7 +145,7 @@ function homePage({curatorsData, museumData, teamData}) {
         >
         <Image 
           src="/curadoras1.svg"
-          w={{base:'130px', md:'190px',lg:'230px'}}
+          w={{base:'170px', md:'190px',lg:'230px'}}
           h={{base:'40px', md:'65px',lg:'65px'}}
           alt="Curadoras"
         />
@@ -160,7 +160,7 @@ function homePage({curatorsData, museumData, teamData}) {
         >
         <Image 
           src="/equipo1.svg"
-          w={{base:'110px', md:'150px',lg:'150px'}}
+          w={{base:'120px', md:'150px',lg:'150px'}}
           h={{base:'40px',md:'65px',lg:'65px'}}
           alt="Equipo"
         />
